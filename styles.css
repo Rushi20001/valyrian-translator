@@ -2,7 +2,15 @@
  body{
     font-family: 'Yeon Sung', cursive;
  }
+.header{
+background-color: #6b7280;
+height: 10vh;
+text-align: center;
+font-size: 1.5rem;
+font-weight: bold;
+padding-top: 10px ;
 
+}
  #txt-input ,#output{
 width: 20%;
 height: 15vh;
