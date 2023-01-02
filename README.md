@@ -1,2 +1,2 @@
-# valyrian-translator
+# Valyrian-translator
 This app will convert your english text into Valyrian langauge.
