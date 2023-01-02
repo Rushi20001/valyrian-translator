@@ -2,3 +2,12 @@
  body{
     font-family: 'Yeon Sung', cursive;
  }
+
+ #txt-input ,#output{
+width: 20%;
+height: 15vh;
+border: 1px solid black;
+margin: 1rem;
+padding: 1rem;
+
+ }
