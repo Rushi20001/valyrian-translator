@@ -24,7 +24,7 @@ height: 15vh;
 border: 1px solid black;
 margin: 1rem;
 padding: 1rem;
-
+border-radius: 1rem;
  }
 #btn-translate{
     background-color: #6b7280;
